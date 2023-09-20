@@ -6,7 +6,7 @@
 
 <a href = "https://github.com/minseok0415">강민석</a>
 
-<a href = "https://github.com/useonguk">유성욱</a><br>
+<a href = "https://github.com/useonguk">유성욱</a>
 
 <a href = "https://github.com/Girey0211">김민석</a>
 #### 🧊 bssm 2023년 1학기 해커톤 - 우수상 수상
