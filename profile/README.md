@@ -4,10 +4,10 @@
 
 <a href = "https://github.com/hw9402">마현우</a>
 
-<a href = "minseok0415">강민석</a>
+<a href = "https://github.com/minseok0415">강민석</a>
 
-<a href = "useonguk">유성욱</a>
-
+<a href = "https://github.com/useonguk">유성욱</a>
+<a href = "https://github.com/Girey0211">김민석</a>
 #### 🧊 bssm 2023년 1학기 해커톤 - 우수상 수상
 #### 🧊 부산 직업박람회 전시 - 노벨석 
 
