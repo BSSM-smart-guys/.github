@@ -14,7 +14,7 @@
 
 #### 🧊 현재 진행중인 프로젝트: AI 노벨 커뮤니티 Infinity
 
-<a href = "https://infinitynovel.kro.kr>infinity 바로가기
+<a href = "https://infinitynovel.kro.kr">infinity 바로가기
 # infinity란?
 저희는 너무 글을 잘 써 주는 여러 AI들이 있음에도 불구하고 AI 소설 커뮤니티가 없다는 점이 너무나도 아쉬웠습니다.<br>
 그래서 저희는 AI 소설 커뮤니티인 infinity를 만들기로 하였고, 그림 AI도 함께 사용하여 보다 읽기 좋고 눈도 즐거운 AI 소설을 만들고자 하였습니다.<br>
