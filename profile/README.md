@@ -12,7 +12,7 @@
 #### 🧊 bssm 2023년 1학기 해커톤 - 우수상 수상
 #### 🧊 부산 직업박람회 전시 - 노벨석 
 
-#### 🧊 현재 진행중인 프로젝트: AI 노벨 커뮤니티 Infinity
+#### 🧊 2023 BDIA 잡페어 경진대회 최우수상 수상 - Infinity
 
 <a href = "https://infinitynovel.kro.kr">infinity 바로가기
 # infinity란?
