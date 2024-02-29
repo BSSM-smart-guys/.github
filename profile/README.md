@@ -3,6 +3,11 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[강승훈](https://github.com/HUN1i)|[마현우](https://github.com/hw9402)|[강민석](https://github.com/minseok0415)|[유성욱](https://github.com/useonguk)|[(구)멤버 김민석](https://github.com/Girey0211)
 
+## 😶‍🌫️ 현재 infinity_v2의 여러 단점들/기능을 보완한 infinity_v3을 Nest/React로 제작 중입니다.
+<a href="https://sustaining-snowdrop-2b7.notion.site/V3-9c9d7edf30d5484ab6847b06cffe4750?pvs=4">notion 링크</a>
+
+##
+
 #### 🧊 bssm 2023년 1학기 해커톤 - 우수상 수상
 #### 🧊 2023 부산 직업박람회 전시 - 노벨석 
 #### 🧊 2023 BDIA 잡페어 경진대회 최우수상 수상 - Infinity
@@ -15,6 +20,9 @@
 <br><h2>🎶 저희는 Infinity가 보다 나은 세상을 만들 수 있을 것으로 기대합니다.</h2>
 - ### 작가를 꿈꾸는 학생/어른들에게 간략한 아이디어/줄거리 제공
 - ### 학생들의 글짓기에 대한 동기 유발<br>
-  ### 저희 Infinity는 여전히 가야 할 길이 멀지만, 끊임없이 발전하는 AI와 함께 보다 더 향상된 AI 소설 커뮤니티로 발전시킬 수 있을 것이라 생각합니다.
+
+##
+
+
 
 
