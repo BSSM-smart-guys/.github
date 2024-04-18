@@ -6,6 +6,7 @@
 ## 😶‍🌫️ 현재 infinity_v2의 여러 단점들/기능을 보완한 infinity_v3을 Nest/React로 제작 중입니다.
 <a href="https://sustaining-snowdrop-2b7.notion.site/V3-9c9d7edf30d5484ab6847b06cffe4750?pvs=4">notion 링크</a>
 
+<a href="https://infinitynovel-smartguys.kro.kr>인피니티 바로가기</a>
 ##
 
 #### 🧊 bssm 2023년 1학기 해커톤 - 우수상 수상
